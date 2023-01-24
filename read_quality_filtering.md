@@ -1,4 +1,4 @@
-# Quality filtering of raw reads obtained my MIG-seq
+# Quality filtering of raw reads
 
 This is the first section to start the 
 
