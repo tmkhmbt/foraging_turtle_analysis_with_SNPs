@@ -1,3 +1,8 @@
+# Quality filtering of raw reads obtained my MIG-seq
+
+This is the first section to start the 
+
+```
 #quality filtering of raw reads and trimming of reads including adapter sequence
 #fastq_file_list.txt include the sample name in each line
 
@@ -20,3 +25,4 @@ java -Xmx8g -jar ~/bin/Trimmomatic-0.35/trimmomatic-0.35.jar \
      HEADCROP:6 \
      MINLEN:71
 done
+```
