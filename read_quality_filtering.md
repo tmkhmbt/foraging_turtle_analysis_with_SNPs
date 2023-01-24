@@ -14,7 +14,7 @@ cat fastq_file_list.txt | while read line
 do
   col1=`echo ${line} | cut -d '_' -f 1`
   col2=`echo ${line} | cut -d '_' -f 2`
-java -Xmx8g -jar ~/bin/Trimmomatic-0.35/trimmomatic-0.35.jar \
+java -Xmx8g -jar /path/to/Trimmomatic-0.35/trimmomatic-0.35.jar \
      PE \
      -threads 28 \
      -phred33 \
