@@ -1,6 +1,6 @@
 # Quality filtering of raw reads
 
-This is the first section to start the 
+This is the first section to start the We used [Trimmomatic](https://github.com/usadellab/Trimmomatic). 
 
 ```
 #quality filtering of raw reads and trimming of reads including adapter sequence
