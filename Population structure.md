@@ -1,6 +1,7 @@
 # Natal origin structure examined by origin known 48 samples 
 
-In this section
+In this section [Stacks](https://catchenlab.life.illinois.edu/stacks/)
+
 
 ```
 populations -P /path/to/bams/ -M /path/to/origin_known_48samples_3regions_map.txt \
