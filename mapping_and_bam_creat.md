@@ -1,6 +1,8 @@
 # BWA mapping and bam file creation code
 
-#reference genome used
+[BWA](https://github.com/lh3/bwa), [Samtools](http://www.htslib.org/)
+
+reference genome used
 
 ```
 REF=/path/to/GCF_015237465.2_rCheMyd1.pri.v2_genomic.fna
