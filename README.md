@@ -1,4 +1,4 @@
-##  Natal origin estimation of foraging green turtle using genome-wide SNPs:
+##  Natal origin estimation of foraging green turtle
 
 This github repository was made to post the codes that were used in the study Hamabata et al. (in review).
 
