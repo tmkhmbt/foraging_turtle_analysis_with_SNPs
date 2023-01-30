@@ -14,4 +14,4 @@ This github repository was made to post the codes that were used in the study Ha
 3. [Population structure](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/Population%20structure.md)
 4. [Extract SNPs for group assignment]()
 
-Although, in this Github repository, we add the link to jump the sofware information, we used the Biocontainers Singularity Images that are available in [NIG Supercomputer system](https://sc.ddbj.nig.ac.jp/en/) for some software without installing in our own environment. 
+Although, in this Github repository, we add the link to jump the sofware information, we used the Biocontainers Singularity Images that are available in NIG Supercomputer system for some software without installing in our own environment. 
