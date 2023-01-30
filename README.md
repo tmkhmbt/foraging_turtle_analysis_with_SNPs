@@ -2,12 +2,12 @@
 
 This github repository was made to post the codes that were used in the study Hamabata et al. (in review).
 
-***
+
 
 - **Raw read data** All the read files (fastq format) were deposit in GenBank BioProject accession
-- **Reference genome** Reference squence (fasta format) of green turtle, <i>Chelonia mydas</i> was downloaded from [here](https://www.ncbi.nlm.nih.gov/assembly/GCF_015237465.2#/st) (rCheMyd1.pri.v2).
+- **[Reference genome](https://www.ncbi.nlm.nih.gov/assembly/GCF_015237465.2#/st)** (rCheMyd1.pri.v2).
 
-***
+
 
 1. [Read quality fitering](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/read_quality_filtering.md)
 2. [Mapping and creat catalogue of SNPs](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/mapping_and_bam_creat.md)
