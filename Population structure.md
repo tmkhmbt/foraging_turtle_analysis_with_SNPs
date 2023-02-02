@@ -1,4 +1,4 @@
-# Natal population examined by origin known 48 samples 
+# Analysis of the natal population structure by origin known 48 samples 
 
 In this section the [populations module](https://catchenlab.life.illinois.edu/stacks/comp/populations.php) in Stacks was run.
 
