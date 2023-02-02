@@ -9,7 +9,7 @@ populations -P /path/to/bams/ -M /path/to/origin_known_48samples_3regions_map.tx
 
 The structure was analyzed and visualized using the genepop format file and the discriminant analysis principal component (DAPC) in adgenet 2.1.8 package for R version 4.2.2. accroding to the [tutorial](https://adegenet.r-forge.r-project.org/files/tutorial-dapc.pdf).
 
-Then, a whiltelist was made to extract 1,767 SNPs from origin unknown samples for the subsequent group assignment
+Then, a whiltelist was made to extract 1,767 SNPs from origin unknown samples for the subsequent group assignment.
 
 `head -n 2 populations.snps.genepop | grep -v "#" | sed -e 's/,/\n/g' | sed -e 's/_/\t/g' > whitelist`
 
