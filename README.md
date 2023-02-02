@@ -4,7 +4,7 @@ This github repository was made to post the scripts used in the study Hamabata e
 
 
 
-- **Raw read data** were deposit in GenBank BioProject accession BioProject PRJDB13199 (released after acceptance).
+- **Raw read data** were deposit in GenBank BioProject accession PRJDB13199 (released after acceptance).
 - **Reference genome** was downloaded from [NCBI](https://www.ncbi.nlm.nih.gov/assembly/GCF_015237465.2#/st) (rCheMyd1.pri.v2) published in [Bentley et al. (in press)]().
 
 
