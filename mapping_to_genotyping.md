@@ -3,7 +3,7 @@
 In this section, three softwares of [BWA](https://github.com/lh3/bwa), [Samtools](http://www.htslib.org/), and [Stacks](https://catchenlab.life.illinois.edu/stacks/) were used.
 
 - Versions of the softwares:
-  - BWA 
+  - BWA 0.7.13
   - Samtools 1.9
   - Stacks 2.3
 
