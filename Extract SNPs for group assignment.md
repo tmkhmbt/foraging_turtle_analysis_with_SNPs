@@ -4,7 +4,7 @@
 Prior to the estimation of the natal origins of origin unknown samples, genotyping data of all samples were conducted.
 To extract the same SNPs analyzed the natal population structure, the populations module of Stacks were run using whitelist option (-W).
 
-The natal origin estimations  were independently performed on the samples with common Japanese haplotypes (n = 49), and on samples with widespread and orphan haplotypes (n = 43). whitelist was created in [the previous section]().
+The natal origin estimations  were independently performed on the samples with common Japanese haplotypes (n = 49), and on samples with widespread and orphan haplotypes (n = 43). whitelist was created in [the previous section](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/Population%20structure.md).
 
 1. SNPs extraction of 49 turtles with common Japanese haplotypes and Japanese (Ryukyus and Ogasawara) turtles.
 
