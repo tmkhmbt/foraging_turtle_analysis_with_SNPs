@@ -5,12 +5,12 @@ In this section the [populations module](https://catchenlab.life.illinois.edu/st
 ```
 populations -P /path/to/bams/ -M /path/to/origin_known_48samples_3regions_map.txt \
             -O /path/to/output/  --min_maf 0.05 -r 0.8 -p 2 --fstats --genepop --vcf
-            
-            
-#make whiltelist to extract 1,767 SNPs for group assignment
-head -n 2 populations.snps.genepop | grep -v "#" | sed -e 's/,/\n/g' | sed -e 's/_/\t/g' > whitelist
+```            
 
-```
+The structure was analyzed and visualized using the genepop format file and the discriminant analysis principal component (DAPC) in adgenet 2.1.8 package for R version 4.2.2. accroding to the [tutorial](https://adegenet.r-forge.r-project.org/files/tutorial-dapc.pdf).
 
-Then, visualized using the discriminant analysis principal component (DAPC) in adgenet 2.1.8 package for R version 4.2.2.
+Then, a whiltelist was made to extract 1,767 SNPs from origin unknown samples for the subsequent group assignment
+
+`head -n 2 populations.snps.genepop | grep -v "#" | sed -e 's/,/\n/g' | sed -e 's/_/\t/g' > whitelist`
+
 
