@@ -1,7 +1,6 @@
-# Natal origin structure examined by origin known 48 samples 
+# Natal population examined by origin known 48 samples 
 
-In this section [Stacks](https://catchenlab.life.illinois.edu/stacks/)
-
+In this section the [populations module](https://catchenlab.life.illinois.edu/stacks/comp/populations.php) in Stacks was run.
 
 ```
 populations -P /path/to/bams/ -M /path/to/origin_known_48samples_3regions_map.txt \
@@ -12,4 +11,6 @@ populations -P /path/to/bams/ -M /path/to/origin_known_48samples_3regions_map.tx
 head -n 2 populations.snps.genepop | grep -v "#" | sed -e 's/,/\n/g' | sed -e 's/_/\t/g' > whitelist
 
 ```
+
+Then, visualized using the discriminant analysis principal component (DAPC) in adgenet 2.1.8 package for R version 4.2.2.
 
