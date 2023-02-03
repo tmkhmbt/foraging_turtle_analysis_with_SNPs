@@ -10,6 +10,8 @@ The natal origin estimations were independently performed on the samples with co
 
 1. SNPs extraction of 49 turtles with common Japanese haplotypes and Japanese (Ryukyus and Ogasawara) turtles.
 
+     The map format file of this analysis (commonJapanese_Ryukyus_Ogasawara_81samples_map.txt) is [here](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/files/commonJapanese_Ryukyus_Ogasawara_81samples_map.txt).
+
 ```
 populations -P /path/to/Stacks_files/ \
             -M /path/to/commonJapanese_Ryukyus_Ogasawara_81samples_map.txt \
