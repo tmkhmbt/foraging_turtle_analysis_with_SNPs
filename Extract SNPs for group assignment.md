@@ -20,7 +20,7 @@ populations -P /path/to/Stacks_files/ \
 ```
 
 2. SNPs extraction of 43 turtles with widespread or orphan haplotypes and all origin known turtles (southern, Ryukyus and Ogasawara) .
-
+     The map format file of this analysis (widespread_orhan_originknown_91samples_map.txt) is [here](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/files/widespread_orhan_originknown_91samples_map.txt).
 ```
 populations -P /path/to/Stacks_files/ \
             -M /path/to/widespread_orhan_originknown_91samples_map.txt \
