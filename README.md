@@ -14,4 +14,4 @@ This github repository was made to post the scripts used in the study Hamabata e
 3. [Natal population structure](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/Population%20structure.md)
 4. [Extract SNPs for group assignment](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/Extract%20SNPs%20for%20group%20assignment.md)
 
-Although, in this Github repository, we add the link to jump the sofware information, we used the Biocontainers Singularity Images that are available in NIG Supercomputer system for some software without installing in our own environment. 
+Analyses using the discriminant analysis principal component (DAPC) (Jombart et al. 2010) in adgenet package for R were according to the [tutorial by Jombart & Collins (2015)](https://adegenet.r-forge.r-project.org/files/tutorial-dapc.pdf).
