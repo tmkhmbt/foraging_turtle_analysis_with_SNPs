@@ -38,9 +38,9 @@ F18GTY125	Widespread
 F18GTY127	Widespread
 F18GTY130	Widespread
 F18GTY131	Widespread
-F18GTY28	Widespread
-F18GTY7	Widespread
-F18GTY123	Widespread
+F18GTY28	Orphan
+F18GTY7	Orphan
+F18GTY123	Orphan
 B2	South
 11GT208	South
 11GT220	South
