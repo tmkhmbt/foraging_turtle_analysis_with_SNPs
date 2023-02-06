@@ -11,7 +11,7 @@ This github repository was made to post the scripts used in the study Hamabata e
 
 1. [Read quality fitering](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/read_quality_filtering.md)
 2. [Mapping and genotyping](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/mapping_to_genotyping.md)
-3. [Natal population structure](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/Population%20structure.md)
+3. [Natal population structure](https://github.com/tmkhmbt/foraging_turtle_analysis_with_SNPs/blob/main/population_structure.md)
 4. [Extract SNPs for group assignment](https://github.com/tmkhmbt/foraging_turtle_analysis_with_SNPs/blob/main/extract_SNPs_for_group_assignment.md)
 
 Analyses using the discriminant analysis principal component (DAPC) (Jombart et al. 2010) in adgenet package for R were according to the [tutorial by Jombart & Collins (2015)](https://adegenet.r-forge.r-project.org/files/tutorial-dapc.pdf).
