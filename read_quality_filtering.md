@@ -1,7 +1,7 @@
 # Quality filtering of raw reads
 
 Low-quality reads were filtered from the samples using [Trimmomatic](https://github.com/usadellab/Trimmomatic). 
-The fastq_file_list.txt contains sample file names on each line. The file names include more than just the sample names, so that only the necessary parts can be output.
+The fastq_file_list.txt contains the filename of the sample on each line. The filenames contain more than just the sample names, so that only the necessary parts can be output.
 
 Files used in the script　below.
 - [MIGadapter.fasta](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/files/MIGadapter.fasta)
