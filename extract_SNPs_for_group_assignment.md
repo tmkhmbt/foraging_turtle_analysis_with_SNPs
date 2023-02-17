@@ -2,7 +2,7 @@
 
 
 Genotyping data of all samples were extracted for the subsequent natal origin estimation of origin unknown samples.
-In this process, the populations module of Stacks were run using whitelist option (-W) to extract the same SNPs analyzed the natal population structure.
+In this process, the *populations* module of Stacks were run using whitelist option (-W) to extract the same SNPs analyzed the natal population structure.
 The whitelist was created in [the previous section](https://github.com/tmkhmbt/foraging_turtle_group_assignment/blob/main/Population%20structure.md).
 
 The natal origin estimations were independently performed on the samples with common Japanese haplotypes (n = 49), and on samples with widespread and orphan haplotypes (n = 43), so the genepop files were created following two ways.
