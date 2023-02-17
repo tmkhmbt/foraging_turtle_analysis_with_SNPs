@@ -21,7 +21,7 @@ samtools sort -T $NAME\.tmp - > /path/to/bams/$line\.bam
 done < sample_list.txt
 ```
 
-Then, run [gstacks](https://catchenlab.life.illinois.edu/stacks/comp/gstacks.php) to genotype each individual at each identified SNP.
+Then, run [gstacks](https://catchenlab.life.illinois.edu/stacks/comp/gstacks.php) module to genotype each individual at each identified SNP.
 
 `gstacks -I /path/to/bams/ -M /path/to/all_samples_map.txt --rm-pcr-duplicates -O /path/to/output/ -t 8`
 
