@@ -1,6 +1,6 @@
 # Quality filtering of raw reads
 
-This is the first section to start the We used [Trimmomatic](https://github.com/usadellab/Trimmomatic). 
+Low-quality reads were filtered from the samples using [Trimmomatic](https://github.com/usadellab/Trimmomatic). 
 The fastq_file_list.txt contains sample file names on each line. The file names include more than just the sample names, so that only the necessary parts can be output.
 
 Files used in the script　below.
