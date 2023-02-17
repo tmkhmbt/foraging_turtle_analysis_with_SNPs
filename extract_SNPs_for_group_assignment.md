@@ -28,4 +28,4 @@ populations -P /path/to/Stacks_files/ \
             -W /path/to/whitelist --genepop
 ```
 
-Then, estimation of the natal origins were performed group assignment using find.clusters function in [adgenet](https://adegenet.r-forge.r-project.org/files/tutorial-dapc.pdf).
+Then, the natal origins were estimated by the group assignments using *find.clusters* function in [adgenet](https://adegenet.r-forge.r-project.org/files/tutorial-dapc.pdf).
