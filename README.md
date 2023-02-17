@@ -1,6 +1,6 @@
 ##  Natal origin estimation of foraging green turtles
 
-This github repository was made to post the scripts used in the study Hamabata et al. (in review).
+This repository was made to post the scripts used in the study Hamabata et al. (in review).
 
 
 
