@@ -1,4 +1,4 @@
-# Analysis of the natal population structure by origin known 48 samples 
+## Analysis of the natal population structure by origin known 48 samples 
 
 Based on the genotyping data of each individual, the [populations module](https://catchenlab.life.illinois.edu/stacks/comp/populations.php) in Stacks was run to compile them into a genepop format file according to the parameters for population structure analysis. The minimum allele frequency threshold was set at 0.05, the proportion of shared SNPs among individuals in a population (-r option) was set at 0.8 (80%), and the minimum number of populations with a locus (-p option) was set at two.
 
